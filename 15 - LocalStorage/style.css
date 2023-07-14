@@ -79,3 +79,17 @@ h2 {
   outline: 0;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
+
+.buttons{
+  display: flex;
+  gap: 2em;
+  margin: 1em;
+  justify-content: center;
+}
+
+.delete , .check{
+  font-size: 10px;
+  padding: .5em;
+ 
+}
+
